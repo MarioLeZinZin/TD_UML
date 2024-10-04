@@ -1,47 +1,65 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Page-1" id="zoRyePCLWCkBZ6lvj27e">
-    <mxGraphModel dx="2739" dy="984" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2630" dy="955" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="dtdurNBQ_DAi3Z7kSiJ7-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dtdurNBQ_DAi3Z7kSiJ7-1" target="dtdurNBQ_DAi3Z7kSiJ7-8">
+        <mxCell id="dtdurNBQ_DAi3Z7kSiJ7-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="dtdurNBQ_DAi3Z7kSiJ7-1" target="dtdurNBQ_DAi3Z7kSiJ7-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dtdurNBQ_DAi3Z7kSiJ7-12" value="INTERRACTION DE BASE D&#39;UN CLIENT + ACCOMPAGNER CELUI-CI" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="dtdurNBQ_DAi3Z7kSiJ7-11">
+        <mxCell id="dtdurNBQ_DAi3Z7kSiJ7-12" value="INTERRACTION DE BASE D&#39;UN CLIENT + ACCOMPAGNER CELUI-CI" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="dtdurNBQ_DAi3Z7kSiJ7-11" vertex="1" connectable="0">
           <mxGeometry x="0.2213" y="3" relative="1" as="geometry">
             <mxPoint x="-46" y="3" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dtdurNBQ_DAi3Z7kSiJ7-1" value="Agent de réservation" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+        <mxCell id="dtdurNBQ_DAi3Z7kSiJ7-1" value="Agent de réservation" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
           <mxGeometry x="-770" y="450" width="50" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="dtdurNBQ_DAi3Z7kSiJ7-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dtdurNBQ_DAi3Z7kSiJ7-3" target="dtdurNBQ_DAi3Z7kSiJ7-8">
+        <mxCell id="dtdurNBQ_DAi3Z7kSiJ7-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="dtdurNBQ_DAi3Z7kSiJ7-3" target="dtdurNBQ_DAi3Z7kSiJ7-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dtdurNBQ_DAi3Z7kSiJ7-10" value="CONSULTER, RÉSERVER, PAYER" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="dtdurNBQ_DAi3Z7kSiJ7-9">
+        <mxCell id="dtdurNBQ_DAi3Z7kSiJ7-10" value="CONSULTER, RÉSERVER, PAYER" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="dtdurNBQ_DAi3Z7kSiJ7-9" vertex="1" connectable="0">
           <mxGeometry x="-0.2274" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dtdurNBQ_DAi3Z7kSiJ7-3" value="Client" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+        <mxCell id="dtdurNBQ_DAi3Z7kSiJ7-3" value="Client" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
           <mxGeometry x="-770" y="160" width="50" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="dtdurNBQ_DAi3Z7kSiJ7-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="dtdurNBQ_DAi3Z7kSiJ7-6" target="dtdurNBQ_DAi3Z7kSiJ7-8">
+        <mxCell id="dtdurNBQ_DAi3Z7kSiJ7-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="dtdurNBQ_DAi3Z7kSiJ7-6" target="dtdurNBQ_DAi3Z7kSiJ7-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dtdurNBQ_DAi3Z7kSiJ7-14" value="INTERRACTION DE BASE D&#39;UN CLIENT + GERER LES VOLS + TARIFS&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="dtdurNBQ_DAi3Z7kSiJ7-13">
+        <mxCell id="dtdurNBQ_DAi3Z7kSiJ7-14" value="INTERRACTION DE BASE D&#39;UN CLIENT + GERER LES VOLS + TARIFS&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="dtdurNBQ_DAi3Z7kSiJ7-13" vertex="1" connectable="0">
           <mxGeometry x="-0.1308" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dtdurNBQ_DAi3Z7kSiJ7-6" value="Admin" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+        <mxCell id="dtdurNBQ_DAi3Z7kSiJ7-6" value="Admin" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
           <mxGeometry x="-770" y="700" width="50" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="dtdurNBQ_DAi3Z7kSiJ7-8" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;Systéme de réservation et de gestions des vols&lt;/font&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="dtdurNBQ_DAi3Z7kSiJ7-8" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;Systéme de réservation et de gestions des vols&lt;/font&gt;" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="-350" y="430" width="270" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="dtdurNBQ_DAi3Z7kSiJ7-15" value="Banque" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+        <mxCell id="dtdurNBQ_DAi3Z7kSiJ7-15" value="Banque" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
           <mxGeometry x="-420" y="910" width="50" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="NL56TAjv4K6ai3-FwbVn-1" value="Aéroport" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-290" y="910" width="50" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="NL56TAjv4K6ai3-FwbVn-2" value="Compagnies aériennes" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-170" y="910" width="50" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="NL56TAjv4K6ai3-FwbVn-4" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;Acteurs secondaires&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-360" y="840" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NL56TAjv4K6ai3-FwbVn-5" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;Acteurs principaux&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-827" y="20" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NL56TAjv4K6ai3-FwbVn-6" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-740" y="70" as="sourcePoint" />
+            <mxPoint x="-740" y="150" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
