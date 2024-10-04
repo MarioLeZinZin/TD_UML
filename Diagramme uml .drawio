@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Page-1" id="zoRyePCLWCkBZ6lvj27e">
-    <mxGraphModel dx="4018" dy="1689" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3420" dy="1373" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -63,6 +63,93 @@
         </mxCell>
         <mxCell id="NL56TAjv4K6ai3-FwbVn-7" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;&lt;b&gt;DIAGRAMME UML DE CAS D&#39;UTILISATION BASIQUE&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-615" y="20" width="570" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NL56TAjv4K6ai3-FwbVn-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NL56TAjv4K6ai3-FwbVn-17" target="NL56TAjv4K6ai3-FwbVn-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NL56TAjv4K6ai3-FwbVn-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NL56TAjv4K6ai3-FwbVn-17" target="NL56TAjv4K6ai3-FwbVn-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NL56TAjv4K6ai3-FwbVn-17" value="Client" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="59" y="320" width="50" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="NL56TAjv4K6ai3-FwbVn-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NL56TAjv4K6ai3-FwbVn-20" target="NL56TAjv4K6ai3-FwbVn-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NL56TAjv4K6ai3-FwbVn-20" value="Admin" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="700" width="50" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="NL56TAjv4K6ai3-FwbVn-22" value="Banque" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="719" y="320" width="50" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="NL56TAjv4K6ai3-FwbVn-23" value="Aéroport" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="719" y="700" width="50" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="NL56TAjv4K6ai3-FwbVn-24" value="Compagnies aériennes" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="719" y="495" width="50" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="NL56TAjv4K6ai3-FwbVn-26" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;Acteurs principaux&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry y="170" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NL56TAjv4K6ai3-FwbVn-27" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="83.23" y="230" as="sourcePoint" />
+            <mxPoint x="83.23" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NL56TAjv4K6ai3-FwbVn-28" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;&lt;b&gt;DIAGRAMME UML DE CAS D&#39;UTILISATION AVANCÉ&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="260" y="20" width="560" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NL56TAjv4K6ai3-FwbVn-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NL56TAjv4K6ai3-FwbVn-29" target="NL56TAjv4K6ai3-FwbVn-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NL56TAjv4K6ai3-FwbVn-29" value="&lt;span style=&quot;font-size: 21px;&quot;&gt;RESERVER VOL&lt;/span&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="339" y="335" width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NL56TAjv4K6ai3-FwbVn-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NL56TAjv4K6ai3-FwbVn-31" target="NL56TAjv4K6ai3-FwbVn-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NL56TAjv4K6ai3-FwbVn-31" value="&lt;span style=&quot;font-size: 21px;&quot;&gt;CONSULTER LES VOLS&lt;/span&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="159" y="335" width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NL56TAjv4K6ai3-FwbVn-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;shape=link;" edge="1" parent="1" source="NL56TAjv4K6ai3-FwbVn-36" target="NL56TAjv4K6ai3-FwbVn-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NL56TAjv4K6ai3-FwbVn-36" value="&lt;span style=&quot;font-size: 21px;&quot;&gt;PAYER&lt;/span&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="529" y="335" width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NL56TAjv4K6ai3-FwbVn-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="NL56TAjv4K6ai3-FwbVn-36" target="NL56TAjv4K6ai3-FwbVn-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NL56TAjv4K6ai3-FwbVn-44" value="&lt;span style=&quot;font-size: 21px;&quot;&gt;RESERVER VOL&lt;/span&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="529" y="240" width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NL56TAjv4K6ai3-FwbVn-46" value="&lt;span style=&quot;font-size: 21px;&quot;&gt;GESTIONS TARFIS ET VOLS&lt;/span&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="270" y="715" width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NL56TAjv4K6ai3-FwbVn-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="NL56TAjv4K6ai3-FwbVn-46" target="NL56TAjv4K6ai3-FwbVn-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NL56TAjv4K6ai3-FwbVn-49" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;Acteurs secondaires&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="617" y="880" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NL56TAjv4K6ai3-FwbVn-51" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="743.76" y="1040" as="sourcePoint" />
+            <mxPoint x="743.38" y="960" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NL56TAjv4K6ai3-FwbVn-52" value="&lt;span style=&quot;font-size: 21px;&quot;&gt;ANNULER&lt;/span&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="529" y="510" width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NL56TAjv4K6ai3-FwbVn-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NL56TAjv4K6ai3-FwbVn-54" target="NL56TAjv4K6ai3-FwbVn-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NL56TAjv4K6ai3-FwbVn-54" value="&lt;span style=&quot;font-size: 21px;&quot;&gt;CONSULTER RESERVATION&lt;/span&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="159" y="510" width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NL56TAjv4K6ai3-FwbVn-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="NL56TAjv4K6ai3-FwbVn-52" target="NL56TAjv4K6ai3-FwbVn-24">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
