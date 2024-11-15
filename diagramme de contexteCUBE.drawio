@@ -1,9 +1,63 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.6">
   <diagram name="Page-1" id="n9Am9VauIdaOoJerlWXD">
-    <mxGraphModel>
+    <mxGraphModel dx="1193" dy="726" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="r6iRo7xkBhI7KEr5Lucl-1" value="utilisateur&lt;div&gt;lambda&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="100" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r6iRo7xkBhI7KEr5Lucl-2" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="40" width="600" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="r6iRo7xkBhI7KEr5Lucl-15" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="r6iRo7xkBhI7KEr5Lucl-5" target="r6iRo7xkBhI7KEr5Lucl-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r6iRo7xkBhI7KEr5Lucl-18" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="r6iRo7xkBhI7KEr5Lucl-5" target="r6iRo7xkBhI7KEr5Lucl-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r6iRo7xkBhI7KEr5Lucl-20" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="r6iRo7xkBhI7KEr5Lucl-5" target="r6iRo7xkBhI7KEr5Lucl-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r6iRo7xkBhI7KEr5Lucl-5" value="uilisateur connecter" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="300" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r6iRo7xkBhI7KEr5Lucl-6" value="CONSULTATION DE RESSOURCE" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="410" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r6iRo7xkBhI7KEr5Lucl-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="410" y="40" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="r6iRo7xkBhI7KEr5Lucl-8" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="r6iRo7xkBhI7KEr5Lucl-1" target="r6iRo7xkBhI7KEr5Lucl-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r6iRo7xkBhI7KEr5Lucl-10" value="CRÉATION DE COMPTE" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="410" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r6iRo7xkBhI7KEr5Lucl-11" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="r6iRo7xkBhI7KEr5Lucl-1" target="r6iRo7xkBhI7KEr5Lucl-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r6iRo7xkBhI7KEr5Lucl-12" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="410" y="130" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="r6iRo7xkBhI7KEr5Lucl-13" value="CONSULTATION DE RESSOURCE" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="560" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r6iRo7xkBhI7KEr5Lucl-14" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="560" y="280" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="r6iRo7xkBhI7KEr5Lucl-16" value="INTERRAGIR AVEC&amp;nbsp;&lt;div&gt;LES RESSOURCES&lt;/div&gt;&lt;div&gt;(AIMER, COMMENTER, FAVORIES)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="250" y="240" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="r6iRo7xkBhI7KEr5Lucl-17" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="250" y="220" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="r6iRo7xkBhI7KEr5Lucl-19" value="GESTION DES FAVORIS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="255" y="370" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="r6iRo7xkBhI7KEr5Lucl-21" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="255" y="350" width="60" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
