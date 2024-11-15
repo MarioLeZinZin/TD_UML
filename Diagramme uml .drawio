@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.6">
   <diagram name="Page-1" id="zoRyePCLWCkBZ6lvj27e">
-    <mxGraphModel dx="2295" dy="894" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2190" dy="830" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -58,7 +58,7 @@
         <mxCell id="NL56TAjv4K6ai3-FwbVn-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="NL56TAjv4K6ai3-FwbVn-17" target="NL56TAjv4K6ai3-FwbVn-54" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NL56TAjv4K6ai3-FwbVn-17" value="Client" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
+        <mxCell id="NL56TAjv4K6ai3-FwbVn-17" value="CITOYEN" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
           <mxGeometry x="59" y="320" width="50" height="100" as="geometry" />
         </mxCell>
         <mxCell id="NL56TAjv4K6ai3-FwbVn-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="NL56TAjv4K6ai3-FwbVn-20" target="NL56TAjv4K6ai3-FwbVn-46" edge="1">
@@ -97,7 +97,7 @@
         <mxCell id="NL56TAjv4K6ai3-FwbVn-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="NL56TAjv4K6ai3-FwbVn-31" target="NL56TAjv4K6ai3-FwbVn-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NL56TAjv4K6ai3-FwbVn-31" value="&lt;span style=&quot;font-size: 21px;&quot;&gt;CONSULTER LES VOLS&lt;/span&gt;" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
+        <mxCell id="NL56TAjv4K6ai3-FwbVn-31" value="&lt;span style=&quot;font-size: 21px;&quot;&gt;CONSULTER LES RESSOURCES&lt;/span&gt;" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="159" y="335" width="170" height="70" as="geometry" />
         </mxCell>
         <mxCell id="NL56TAjv4K6ai3-FwbVn-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;shape=link;" parent="1" source="NL56TAjv4K6ai3-FwbVn-36" target="NL56TAjv4K6ai3-FwbVn-44" edge="1">
